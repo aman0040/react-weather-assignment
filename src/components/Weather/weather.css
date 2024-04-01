@@ -1,0 +1,7 @@
+.weather {
+  background-color: var(--color-secondary-light);
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,10 @@
+.locationCard {
+  border: 2px solid gray;
+  padding: 1.2rem;
+  background-color: var(--color-secondary-pale);
+  border-radius: 0.5rem;
+}
+
+.locationCard:hover {
+  border-color: var(--color-accent);
+}

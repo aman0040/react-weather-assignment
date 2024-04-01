@@ -1,0 +1,13 @@
+.masthead {
+  background-color: var(--color-primary);
+  text-align: center;
+  margin: 0;
+}
+
+.masthead h1 {
+  color: var(--color-white);
+  font-weight: 500;
+  font-size: 3rem;
+  margin: 0;
+  padding: 1rem 2rem;
+}
